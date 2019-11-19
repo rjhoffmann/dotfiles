@@ -1,0 +1,5 @@
+[user]
+    name = "Ryan Hoffmann"
+    email = ryan@hoff.pub
+[credential]
+    helper = "osxkeychain"
