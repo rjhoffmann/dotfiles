@@ -1,3 +1,6 @@
-[submodule "submodules/zsh-nvm"]
-	path = submodules/zsh-nvm
+[submodule "submodules/zsh/plugins/zsh-nvm"]
+	path = submodules/zsh/plugins/zsh-nvm
 	url = https://github.com/lukechilds/zsh-nvm
+[submodule "submodules/zsh/themes/powerlevel10k"]
+	path = submodules/zsh/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
