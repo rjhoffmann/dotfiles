@@ -9,6 +9,9 @@ fi
 ## Theme
 source ~/.dotfiles/submodules/zsh/themes/powerlevel10k/powerlevel10k.zsh-theme
 
+## Config
+source ~/.dotfiles/zsh/config.zsh
+
 ## Plugins
 source ~/.dotfiles/submodules/zsh/plugins/zsh-nvm/zsh-nvm.plugin.zsh
 
