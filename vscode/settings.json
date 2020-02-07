@@ -1,0 +1,46 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.fontFamily": "Dank Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.insertSpaces": true,
+  "editor.lineHeight": 20,
+  "editor.minimap.maxColumn": 200,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.showSlider": "always",
+  "editor.renderControlCharacters": false,
+  "editor.renderWhitespace": "all",
+  "editor.smoothScrolling": true,
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+  },
+  "explorer.openEditors.visible": 0,
+  "files.associations": {
+      "*.js": "javascriptreact"
+  },
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": true,
+  "window.menuBarVisibility": "toggle",
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+  "workbench.iconTheme": "vscode-icons",
+  "[markdown]": {
+      // "editor.fontFamily": "\"IA Writer Duo S\", monospace",
+      "editor.fontFamily": "Dank Mono",
+      "editor.fontLigatures": true,
+      "editor.fontSize": 16,
+      "editor.lineHeight": 26,
+      "editor.lineNumbers": "off",
+      "editor.wordWrap": "off",
+      // "editor.wordWrap": "wordWrapColumn",
+      // "editor.wordWrapColumn": 72,
+      "editor.quickSuggestions": false
+  }
+}
